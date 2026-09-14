@@ -4,13 +4,6 @@
 
 ---
 
-## 🚀 Link da Aplicação em Produção
-
-O projeto está totalmente configurado e rodando na nuvem com **Deploy Automático**! Você não precisa configurar nada localmente para testar:
-
-🌍 **Acesse agora:** [Use & Devolva - AWS Elastic Beanstalk](http://usedevolva.sa-east-1.elasticbeanstalk.com/)
-
----
 
 ## 🛠️ Technologies & Frameworks
 
